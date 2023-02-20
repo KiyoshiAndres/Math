@@ -21,3 +21,7 @@ Perhaps there is a simpler reasoning to this, but that is the first thing I thou
 
 Questions for the future:
 Does adjoining the xth roots of unity to the rational numbers, where x is any real number, produce the complex plane?
+
+
+Bibliography:
+Infinite roots of unity: https://math.stackexchange.com/questions/1393072/adjoining-all-roots-of-unity-to-an-arbitrary-field-f-is-an-abelian-extension
