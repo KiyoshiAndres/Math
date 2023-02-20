@@ -1,4 +1,4 @@
-# Sage
+# Galois Theory and Symmetries in Data
 
 I used Sage 9.7 for the mathematical computations.
 Finding symmetries in data is important in basically any branch of science. Group theory is essentially the study of symmetries. Galois theory is the study of
