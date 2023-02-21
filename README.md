@@ -18,11 +18,11 @@ One can approximate a circle in the complex plane by the roots of unity. But the
 The nth roots of unity are countable by definition, but the elements with norm 1 are uncountable by virtue of being homeomorphic to the one point compactification of the real line. 
 Perhaps there is a simpler reasoning to this, but that is the first thing I thought of.
 
-
-Questions for the future:
 Does adjoining the xth roots of unity to the rational numbers, where x is any real number, produce the complex plane?
 Related question: Does adjoining an open interval to the rational numbers generate the real numbers? The answer is yes, simply by translating the interval.
-So I expect the answer to the former question being positive.
+The answer to the first question is yes. Since if x is an element of the unit circle, its conjugate is also in the unit circle, we have that $x + \bar{x}$ is also in the field extension, and thus the line segment $[-1,1]$ is in the extension. This together with the fact that $i$ is a root of unity proves that the resulting field is the complex plane.
+
+So any hope for continuous symmetries seems to be dead.
 
 Long Term Goals:
 
