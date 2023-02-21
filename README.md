@@ -21,7 +21,8 @@ Perhaps there is a simpler reasoning to this, but that is the first thing I thou
 
 Questions for the future:
 Does adjoining the xth roots of unity to the rational numbers, where x is any real number, produce the complex plane?
-
+Related question: Does adjoining an open interval to the rational numbers generate the real numbers? The answer is yes, simply by translating the interval.
+So I expect the answer to the former question being positive.
 
 Long Term Goals:
 
@@ -30,6 +31,8 @@ Obstructions:
 - Normalizing the photo
 - Detecting Symmetries
 The first obstruction is resolved or at the very least half resolved. The problem arises from the 3D object being represented in the projective plane, and then being at an angle. Mathematically, we have maps $\mathbb{R}^3\to\mathbb{P}^2\to\mathbb{R}^2$ (an approximation, we also need to account for lens curvature and size). But there are already techniques that de-projectivize a photo into a projection from 3D space to a normal euclidean plane. The angle part could be solved by having a symmetry line.
+
+Perhaps instead of using just irreducible polynomials in one variable, it would benefit to use homogeneous polynomials in two variables. Are they the analogue of single variable polynomials in the projective line?
 
 Bibliography:
 Infinite roots of unity: https://math.stackexchange.com/questions/1393072/adjoining-all-roots-of-unity-to-an-arbitrary-field-f-is-an-abelian-extension
